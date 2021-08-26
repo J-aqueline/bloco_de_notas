@@ -57,3 +57,17 @@
     color: #405c60;
     position: relative;
   }/*Definindo estilo nas classes*/
+
+  #login {
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+    height: 80vh;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
